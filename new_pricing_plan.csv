@@ -1,0 +1,81 @@
+gender,age_group,country_group,os
+female,35-45,"UK, GB, CA, NZ, AU",Windows
+female,35-45,United States,iOS
+female,45-55,United States,iOS
+female,55+,"UK, GB, CA, NZ, AU",Windows
+female,55+,United States,iOS
+male,35-,Other,Mac
+male,35-,"UK, GB, CA, NZ, AU",Mac
+male,35-,United States,iPadOS
+male,35-45,"UK, GB, CA, NZ, AU",Chrome OS
+male,35-45,United States,GNU/Linux
+male,45-55,Other,GNU/Linux
+male,55+,"UK, GB, CA, NZ, AU",Mac
+male,55+,United States,Other
+female,35-,Other,iOS
+female,35-,"UK, GB, CA, NZ, AU",Android
+female,35-,"UK, GB, CA, NZ, AU",Chrome OS
+female,35-,"UK, GB, CA, NZ, AU",Windows
+female,35-,"UK, GB, CA, NZ, AU",iOS
+female,35-,United States,Mac
+female,35-,United States,Other
+female,35-,United States,iOS
+female,35-45,Other,Android
+female,35-45,Other,iOS
+female,35-45,"UK, GB, CA, NZ, AU",Android
+female,35-45,"UK, GB, CA, NZ, AU",iOS
+female,35-45,United States,Android
+female,35-45,United States,Windows
+female,45-55,Other,Android
+female,45-55,Other,Windows
+female,45-55,Other,iPadOS
+female,45-55,"UK, GB, CA, NZ, AU",Android
+female,45-55,"UK, GB, CA, NZ, AU",Windows
+female,45-55,United States,Android
+female,45-55,United States,Windows
+female,55+,Other,Android
+female,55+,Other,Mac
+female,55+,Other,Windows
+female,55+,Other,iOS
+female,55+,"UK, GB, CA, NZ, AU",Mac
+female,55+,United States,Android
+female,55+,United States,GNU/Linux
+female,55+,United States,Windows
+female,55+,United States,iPadOS
+male,35-,"UK, GB, CA, NZ, AU",Android
+male,35-,"UK, GB, CA, NZ, AU",GNU/Linux
+male,35-,"UK, GB, CA, NZ, AU",iOS
+male,35-,"UK, GB, CA, NZ, AU",iPadOS
+male,35-,United States,Android
+male,35-,United States,Mac
+male,35-,United States,Other
+male,35-,United States,iOS
+male,35-45,Other,Android
+male,35-45,Other,Windows
+male,35-45,"UK, GB, CA, NZ, AU",Android
+male,35-45,"UK, GB, CA, NZ, AU",Windows
+male,35-45,"UK, GB, CA, NZ, AU",iOS
+male,35-45,United States,Windows
+male,35-45,United States,iOS
+male,45-55,Other,Android
+male,45-55,Other,Chrome OS
+male,45-55,Other,Windows
+male,45-55,"UK, GB, CA, NZ, AU",Android
+male,45-55,"UK, GB, CA, NZ, AU",Other
+male,45-55,"UK, GB, CA, NZ, AU",Windows
+male,45-55,"UK, GB, CA, NZ, AU",iOS
+male,45-55,"UK, GB, CA, NZ, AU",iPadOS
+male,45-55,United States,Android
+male,45-55,United States,Windows
+male,45-55,United States,iOS
+male,55+,Other,Windows
+male,55+,Other,iOS
+male,55+,Other,iPadOS
+male,55+,"UK, GB, CA, NZ, AU",Chrome OS
+male,55+,"UK, GB, CA, NZ, AU",Other
+male,55+,"UK, GB, CA, NZ, AU",iPadOS
+male,55+,United States,Android
+male,55+,United States,Mac
+male,55+,United States,Windows
+male,55+,United States,iOS
+male,55+,United States,iPadOS
